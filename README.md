@@ -21,7 +21,7 @@
 
 <!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
 
-<a href="https://github.com/search?q=user%3Athetalesofj+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/-HTML-F05033?style=for-the-badge&labelColor=F05033&logo=html&logoColor=white"/></a>
+<a href="https://github.com/search?q=user%3Athetalesofj+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/-HTML-F05033?style=for-the-badge&labelColor=F05033&logo=HTML&logoColor=white"/></a>
 
 This application was made using HTML at the beginning of my coding journey.
 
