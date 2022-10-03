@@ -1,38 +1,47 @@
-<h1>Cat photo app</h1>
+# Cat Photo App
 
-## Table of Contents
+## Table of contents
 
-- [Overview](#overview)
-- [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+* [Overview](#overview)
+* [Technologies](#technologies)
+* [Features](#features)
+* [How to run the project locally](#how-to-run-the-project-locally)
+* [Feedback](#feedback)
 
 ## Overview
 
-<!-- TODO: Add a screenshot of the live project.
-    1. Link to a 'live demo.'
-    2. Describe your overall experience in a couple of sentences.
-    3. List a few specific technical things that you learned or improved on.
-    4. Share any other tips or guidance for others attempting this or something similar.
- -->
+This cat photo app was created while conducting the Responsive Web Design at freeCodeCamp. 
 
-### Built With
+## Technologies:
+Project is created with:
 
-<!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
-
-<a href="https://github.com/search?q=user%3Athetalesofj+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-
-This application was made using HTML at the beginning of my coding journey.
+[![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ahtml)
 
 ## Features
 
-<!-- TODO: List what specific 'user problems' that this application solves. -->
+While learning the basics of HTML/CSS, I quickly grasped the application of HTML tags to add photos, buttons, and other elements to a webpage.
 
-## Contact
 
-<!-- TODO: Include icons and links to your RELEVANT, PROFESSIONAL 'DEV-ORIENTED' social media. LinkedIn and dev.to are minimum. -->
+## How to run the project locally
 
-## Acknowledgements
+Here are directions on how to fork the thetalesofj/Cat-Photo-App repository:
+<br>
+https://docs.github.com/en/get-started/quickstart/fork-a-repo
+
+In the command line:
+
+1. Clone the repo by typing `git clone https://github.com/YOUR-GITHUB-USERNAME/Cat-Photo-App.git`
+2. Then type `cd Cat-Photo-App` to go into the project's directory.
+3. Install dependencies with `npm install`
+4. Run the project with `npm start`
+5. Have fun 🚀
+## Feedback
+
+If you have any feedback, please reach out to one of the links below:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-haastrup/)[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thetalesofj)
+
+<!-- ## Acknowledgements -->
+
 
 <!-- TODO: List any blog posts, tutorials or plugins that you may have used to complete the project. Only list those that had a significant impact. Obviously, we all 'Google' stuff while working on our things, but maybe something in particular stood out as a 'major contributor' to your skill set for this project. -->
